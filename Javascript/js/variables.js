@@ -49,7 +49,7 @@ alert(nur3);
 let nombres = prompt("decime tu nombre");
 alert(nombres);
 
-//Aqui concatenamos con la variable nombres1
+//Aqui concatenamos con la variable nombres1 hay que darle un espacio
 let nombres1 = prompt("dame tu segundo nombre");
 alert("Hola Bienvenido " + nombres1);
 
