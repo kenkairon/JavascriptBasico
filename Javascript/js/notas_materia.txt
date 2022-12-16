@@ -1,0 +1,36 @@
+`<!-- # /DOM              TITLE
+             HEAD 
+DOM----HTML         META
+           
+            BODY    SCRIPT
+                
+                    FORM     INPUT
+
+# -Definición
+# -Concepto Extendido
+
+# -Nodo: Un nodo es el DOM  es cualquier etiqueta del cuerpo, como un párrafo,
+# el mismo body o incluso las etiquetas
+
+# *Document: el nodo document es el nodo raiz, apartir del cual derivan el resto de los nodos
+# *Element: Nodos definidos por etiquetas html.
+# *Text: El texto dentro de un nodo elemento se considera un nuevo nodo hijo de tipo text(texto).
+# *Attibute: Los atributos de las etiquetas definen nodos, (en javascript no lo veremos como noco)
+# *Comentarios y otros: Los comentarios y otros elementos como declaraciones doctype en cabecera -->
+
+<!-- document. - METODOS DE SELECCIÓN DE elementos
+
+-getElementById() - Selecciona los elementos por ID
+
+-getElementByTagName() - Selecciona todos los elementos que coincidan con el nombre de la etiqueta
+    específicada.
+
+-querySelector() - Devuelve el primer elemento que coincida con el grupo específicado de selectores
+
+-querySelectorAll() - Devuelve el primer elemento que coincida con el grupo específicado de selectores
+
+Metodos para definir, obtener y eliminar valores de atributos
+-setAttribute() - modifica el valor del atributo
+-getAttribute() - Obtiene el valor del atributo
+-removeAttribute() -Remueve el valor del atributo -->`
+

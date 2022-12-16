@@ -12,9 +12,11 @@
 // document.write(texto != texto2);
 
 // === verifica si los numeros son exactamente iguales en valor y declaración
-let numero = 23;
-let texto = "23";
-// == con dos iguales comparas si son iguales
-document.write(numero == texto);
-// == con tres iguales comparas si son extrictamente iguale
-document.write(numero === texto);
+// let numero = 23;
+// let texto = "23";
+// // == con dos iguales comparas si son iguales
+// document.write(numero == texto);
+// // == con tres iguales comparas si son extrictamente iguale
+// document.write(numero === texto);
+
+// LLEGAMOS HASTA AQUI-----FALTA
