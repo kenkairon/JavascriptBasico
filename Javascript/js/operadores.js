@@ -2,6 +2,54 @@
 // Los operadores Aritméticos toman valores numéricos(ya sean literales o variables)
 //como sus operandos y retoman un valor numéricos únicos
 
+// restarlo
+numero1 = 10;
+numero2 = 5;
+numero1--;
+resultado = numero1;
+alert (resultado);
+
+// sumarlo
+numero0 = 10;
+numero2 = 5;
+numero0++;
+resultado = numero0;
+alert (resultado);
+
+// division
+numero1 = 10;
+numero2 = 5;
+resultado = numero1 / numero2;
+alert (resultado);
+
+//Exponenciaciónn
+numero1 = 10;
+numero2 = 5;
+//10 se eleve a la quinta
+resultado = numero1 ** numero2;
+alert (resultado);
+
+//Aumenta
+numero1 = 10;
+numero2 = 5;
+//10 se  aumente 1
+numero1++;
+resultado = numero1;
+alert (resultado);
+
+// resto
+numero1 = 10;
+numero2 = 5;
+//10 se  aumente 1
+resultado = numero1 % numero2;
+alert (resultado);
+
+//negacion unaria
+numero1 = 10;
+numero2 = 5;
+
+resultado = -numero1;
+alert(resultado);
 // Operadores de Asignación
 // Un operador de asignación asigna un valor al operando de la izquierda basado
 //en el valor de la derecha
